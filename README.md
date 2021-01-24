@@ -9,7 +9,9 @@
 
 ### Results
 -Random Oversampling
+
 ![alt text](https://github.com/Yunaka1269/Credit_Risk_Analysis/blob/main/picture/RandomOverSampler.PNG "Random_Oversampling")
+
 	-Balanced accuracy scores : 0.6603423204808787
 	-Precision scores
 		- High risk : 0.01
@@ -19,7 +21,9 @@
 		- Low risk : 0.58 
 
 -Synthetic Minority Oversampling Technique (SMOTE)
+
 ![alt text](https://github.com/Yunaka1269/Credit_Risk_Analysis/blob/main/picture/SMOTE.PNG "SMOTE")
+
 	-Balanced accuracy scores : 0.6537310478007576
 	-Precision scores
 		- High risk : 0.01
@@ -29,7 +33,9 @@
 		- Low risk : 0.68
 
 -Cluster Centroid Undersampling
+
 ![alt text](https://github.com/Yunaka1269/Credit_Risk_Analysis/blob/main/picture/ClusterCentroids.PNG "Cluster_Centroids")
+
 	-Balanced accuracy scores : 0.6537310478007576
 	-Precision scores
 		- High risk : 0.01
@@ -39,7 +45,9 @@
 		- Low risk : 0.41
 
 -SMOTEENN
+
 ![alt text](https://github.com/Yunaka1269/Credit_Risk_Analysis/blob/main/picture/SMOTEENN.PNG "SMOTEENN")
+
 	-Balanced accuracy scores : 0.5474716701090128
 	-Precision scores
 		- High risk : 0.01
@@ -49,7 +57,9 @@
 		- Low risk : 0.57
 
 -BalancedRandomForestClassifier
+
 ![alt text](https://github.com/Yunaka1269/Credit_Risk_Analysis/blob/main/picture/BalancedRandomForestClassifier.PNG "Balanced_Random_Forest_Classifier")
+
 	-Balanced accuracy scores : 0.7885466545953005
 	-Precision scores
 		- High risk : 0.03
@@ -59,7 +69,9 @@
 		- Low risk : 0.87
 
 -EasyEnsembleClassifier
+
 ![alt text](https://github.com/Yunaka1269/Credit_Risk_Analysis/blob/main/picture/EasyEnsembleClassifier.PNG "EasyEnsemble_Classifier")
+
 	-Balanced accuracy scores : 0.9316600714093861
 	-Precision scores
 		- High risk : 0.09
